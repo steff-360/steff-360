@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=215&section=header&text=Stefani%20S%C3%A1nchez&fontSize=42&fontAlignY=35&fontColor=ffffff" width="100%" alt="Header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Desarrolladora+de+Software+%7C+Full+Stack+%26+Mobile;Flutter+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Python;Automatizaciones+con+n8n+%E2%80%A2+APIs+RESTful+%E2%80%A2+Webhooks;MySQL+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB+%E2%80%A2+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Desarrolladora+de+Software+%7C+Creative+Developer;Web+Inmersiva+3D+%E2%80%A2+Three.js+%E2%80%A2+Spline+%E2%80%A2+WebGL;Animaciones+con+Scroll+%28GSAP+ScrollTrigger+%E2%80%A2+Lenis%29;Flutter+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+n8n" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,11 +30,11 @@
 ### Perfil Profesional
 
 <p align="justify">
-Desarrolladora de software con formación integral en <strong>Pedagogía y Tecnologías de la Información</strong>. Experiencia en el desarrollo de soluciones web y móviles con <strong>Flutter</strong>, diseño de arquitecturas backend escalables, automatización de flujos de trabajo con <strong>n8n</strong>, y administración de bases de datos relacionales (<strong>MySQL</strong>, <strong>PostgreSQL</strong>) y NoSQL (<strong>MongoDB</strong>).
+Desarrolladora de software y <strong>Creative Developer</strong> con formación integral en <strong>Pedagogía y Tecnologías de la Información</strong>. Especializada en la creación de <strong>experiencias web inmersivas en 3D</strong> y desarrollo full stack, integrando entornos tridimensionales interactivos (<strong>Three.js</strong>, <strong>Spline</strong>, <strong>WebGL</strong>) y <strong>animaciones de alto rendimiento basadas en scroll</strong> (<strong>GSAP ScrollTrigger</strong>, <strong>Lenis Smooth Scroll</strong>) para narrativa web dinámica (<em>scrollytelling</em>).
 </p>
 
 <p align="justify">
-Enfoque multidisciplinario que combina rigor técnico en desarrollo de software, pruebas unitarias e integración continua, con la optimización de procesos mediante automatizaciones y principios pedagógicos de tecnología educativa.
+Combino el diseño de interfaces sensoriales e inmersivas con sólidas arquitecturas de backend en <strong>Node.js</strong>, aplicaciones multiplataforma con <strong>Flutter</strong>, flujos automatizados con <strong>n8n</strong> y bases de datos relacionales y NoSQL (<strong>PostgreSQL</strong>, <strong>MySQL</strong>, <strong>MongoDB</strong>).
 </p>
 
 ---
@@ -43,6 +43,8 @@ Enfoque multidisciplinario que combina rigor técnico en desarrollo de software,
 
 | Dominio | Tecnologías y Herramientas |
 | :--- | :--- |
+| **Creative Dev & Web 3D** | ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![Spline 3D](https://img.shields.io/badge/Spline_3D-000000?style=flat-square&logo=spline&logoColor=white) ![HTML5 Canvas](https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Animaciones & Scrolls** | ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![ScrollTrigger](https://img.shields.io/badge/ScrollTrigger-333333?style=flat-square&logo=greensock&logoColor=88CE02) ![Lenis Scroll](https://img.shields.io/badge/Lenis-Smooth_Scroll-000000?style=flat-square&logo=scrolller&logoColor=white) ![CSS Animations](https://img.shields.io/badge/CSS_Keyframes-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Mobile & Frontend** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Backend & Pruebas** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Supertest](https://img.shields.io/badge/Supertest-6E40C9?style=flat-square&logo=jest&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
 | **Bases de Datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white) |
@@ -55,8 +57,8 @@ Enfoque multidisciplinario que combina rigor técnico en desarrollo de software,
 
 | Proyecto | Descripción y Enfoque | Stack Tecnológico | Enlaces |
 | :--- | :--- | :--- | :---: |
-| **Portafolio Web Profesional** | Sitio web interactivo diseñado para presentar proyectos de software, experiencia técnica y canales de contacto. | JavaScript, HTML5, CSS3, Netlify | [Demo en Vivo](https://kjlpo.netlify.app/) • [Código](https://github.com/steff-360/Portafolio-Stefani-S-nchez) |
-| **Escape Room Educativo** | Plataforma gamificada interactiva con control de sesiones, roles administrativos, autenticación JWT y PostgreSQL. | Node.js, Express, PostgreSQL, JWT, CI/CD | [Código Fuente](https://github.com/steff-360/escape-room-programacion) |
+| **Portafolio Web Profesional** | Experiencia web interactiva con microinteracciones y diseño responsivo optimizado para velocidad y estética visual. | JavaScript, HTML5, CSS3, Netlify | [Demo en Vivo](https://kjlpo.netlify.app/) • [Código](https://github.com/steff-360/Portafolio-Stefani-S-nchez) |
+| **Escape Room Educativo** | Plataforma interactiva gamificada con mecánicas de resolución de acertijos, roles administrativos, autenticación JWT y PostgreSQL. | Node.js, Express, PostgreSQL, JWT, CI/CD | [Código Fuente](https://github.com/steff-360/escape-room-programacion) |
 | **Sistema de Librería y Catálogo** | Arquitectura modular cliente-servidor para administración y catalogación estructurada de libros. | JavaScript, Node.js, Express | [Código Fuente](https://github.com/steff-360/libreria) |
 | **Infraestructura con Supabase y Docker** | Aprovisionamiento de backend local y configuración de base de datos relacional mediante contenedores Docker Compose. | Docker, Supabase, PostgreSQL | [Código Fuente](https://github.com/steff-360/STEFANI-supabse-local-alcore-config) |
 | **Bases de Datos y Consultas MySQL** | Modelado entidad-relación, normalización de esquemas y consultas relacionales avanzadas. | MySQL, SQL, Docker | [Código Fuente](https://github.com/steff-360/Stefani-campuslands-mysql) |
