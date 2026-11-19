@@ -5,7 +5,7 @@
 
 <!-- Subtítulo Animado -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Creative+Web+%26+Games;Web+Inmersiva+3D+%E2%80%A2+Three.js+%E2%80%A2+WebGL+%E2%80%A2+GSAP;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;Desarrollo+Multiplataforma+con+Flutter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Python;Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;Desarrollo+Multiplataforma+con+Flutter" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/VER_PORTAFOLIO-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portafolio" />
   </a>
   <a href="https://www.linkedin.com/in/stefani-s%C3%A1nchez-b35b65279" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Stefani_Sánchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Stefani_Sanchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:steff.18random@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -33,16 +33,16 @@
 ### Perfil Profesional
 
 <p align="justify">
-Desarrolladora de software con formación integral en <strong>Pedagogía y Tecnologías de la Información</strong>. Especializada en la creación de <strong>videojuegos web educativos</strong>, <strong>experiencias inmersivas en 3D</strong> y arquitecturas full stack escalables.
+Desarrolladora de software con formacion integral en <strong>Pedagogia y Tecnologias de la Informacion</strong>. Especializada en la creacion de <strong>videojuegos web educativos</strong>, arquitecturas full stack escalables y desarrollo movil multiplataforma.
 </p>
 
 <p align="justify">
-Combino mecánicas de gamificación interactiva con tecnologías modernas: motores visuales (<strong>Three.js</strong>, <strong>WebGL</strong>, <strong>Spline 3D</strong>), animaciones de alto rendimiento (<strong>GSAP ScrollTrigger</strong>), desarrollo backend seguro con <strong>Node.js</strong> y <strong>Express</strong>, persistencia en <strong>PostgreSQL</strong> y <strong>MySQL</strong>, aplicaciones móviles con <strong>Flutter</strong> y automatizaciones de flujos con <strong>n8n</strong> y <strong>Docker</strong>.
+Trabajo con mecanicas de gamificacion interactiva combinadas con tecnologias modernas: desarrollo backend seguro con <strong>Node.js</strong> y <strong>Express</strong>, persistencia relacional en <strong>PostgreSQL</strong> y <strong>MySQL</strong>, contenedores con <strong>Docker</strong>, automatizacion con <strong>GitHub Actions</strong> y aplicaciones moviles con <strong>Flutter</strong>.
 </p>
 
 ---
 
-### Ecosistema Tecnológico
+### Ecosistema Tecnologico
 
 | Area | Tecnologias y Herramientas |
 | :--- | :--- |
@@ -59,12 +59,12 @@ Combino mecánicas de gamificación interactiva con tecnologías modernas: motor
 
 | Proyecto | Descripcion y Arquitectura | Stack Tecnologico | Acceso |
 | :--- | :--- | :--- | :---: |
-| **Escape Room Educativo** | Videojuego web interactivo de resolucion de retos en programacion con control de sesiones, roles de administracion y persistencia en base de datos. | Node.js, Express, PostgreSQL, JWT, GitHub Pages | [Jugar en Vivo](https://steff-360.github.io/escape-room-programacion/) • [Codigo](https://github.com/steff-360/escape-room-programacion) |
-| **Portafolio Web** | Plataforma interactiva con microinteracciones y diseno responsivo para presentacion de proyectos de software. | JavaScript, HTML5, CSS3, Netlify | [Demo en Vivo](https://kjlpo.netlify.app/) • [Codigo](https://github.com/steff-360/Portafolio-Stefani-S-nchez) |
+| **Escape Room Educativo** | Videojuego web interactivo de resolucion de retos en programacion con control de sesiones, roles de administracion y persistencia en base de datos. | Node.js, Express, PostgreSQL, GitHub Pages | [Jugar en Vivo](https://steff-360.github.io/escape-room-programacion/) • [Codigo](https://github.com/steff-360/escape-room-programacion) |
+| **Portafolio Web** | Plataforma interactiva con microinteracciones y diseno responsivo para presentacion de proyectos de software. | JavaScript, HTML5, CSS3, Netlify | [Demo en Vivo](https://kjlpo.netlify.app/) • [Codigo](https://github.com/steff-360/portafolio-stefani-campuslands) |
 | **Sistema de Libreria** | Arquitectura cliente-servidor modular para catalogacion, prestamos y gestion documental de libros. | JavaScript, Node.js, Express | [Codigo Fuente](https://github.com/steff-360/libreria) |
-| **Infraestructura Docker & Supabase** | Aprovisionamiento de backend local y orquestacion de bases de datos mediante contenedores Docker Compose. | Docker, Supabase, PostgreSQL | [Codigo Fuente](https://github.com/steff-360/STEFANI-supabse-local-alcore-config) |
-| **Bases de Datos MySQL** | Modelado entidad-relacion, normalizacion de esquemas y consultas relacionales avanzadas. | MySQL, SQL, Docker | [Codigo Fuente](https://github.com/steff-360/Stefani-campuslands-mysql) |
-| **Modelado NoSQL con MongoDB** | Creacion de colecciones, operadores de agregacion y persistencia orientada a documentos. | MongoDB, JavaScript, NoSQL | [Codigo Fuente](https://github.com/steff-360/Stefani-dev-nosql-mongodb) |
+| **Infraestructura Docker & Supabase** | Aprovisionamiento de backend local y orquestacion de bases de datos mediante contenedores Docker Compose. | Docker, Supabase, PostgreSQL | [Codigo Fuente](https://github.com/steff-360/stefani-supabase-local-alcore-config) |
+| **Bases de Datos MySQL** | Modelado entidad-relacion, normalizacion de esquemas y consultas relacionales avanzadas. | MySQL, SQL, Docker | [Codigo Fuente](https://github.com/steff-360/stefani-campuslands-mysql) |
+| **Modelado NoSQL con MongoDB** | Creacion de colecciones, operadores de agregacion y persistencia orientada a documentos. | MongoDB, JavaScript, NoSQL | [Codigo Fuente](https://github.com/steff-360/stefani-dev-nosql-mongodb) |
 
 ---
 
