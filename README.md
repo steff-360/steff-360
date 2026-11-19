@@ -60,7 +60,7 @@ Trabajo con mecanicas de gamificacion interactiva combinadas con tecnologias mod
 | Proyecto | Descripcion y Arquitectura | Stack Tecnologico | Acceso |
 | :--- | :--- | :--- | :---: |
 | **Escape Room Educativo** | Videojuego web interactivo de resolucion de retos en programacion con control de sesiones, roles de administracion y persistencia en base de datos. | Node.js, Express, PostgreSQL, GitHub Pages | [Jugar en Vivo](https://steff-360.github.io/escape-room-programacion/) • [Codigo](https://github.com/steff-360/escape-room-programacion) |
-| **Portafolio Web** | Plataforma interactiva con microinteracciones y diseno responsivo para presentacion de proyectos de software. | JavaScript, HTML5, CSS3, Netlify | [Demo en Vivo](https://kjlpo.netlify.app/) • [Codigo](https://github.com/steff-360/portafolio-stefani-campuslands) |
+| **Portafolio Web** | Plataforma interactiva con microinteracciones y diseno responsivo para presentacion de proyectos de software. | JavaScript, HTML5, CSS3, Netlify | [Demo en Vivo](https://kjlpo.netlify.app/) |
 | **Sistema de Libreria** | Arquitectura cliente-servidor modular para catalogacion, prestamos y gestion documental de libros. | JavaScript, Node.js, Express | [Codigo Fuente](https://github.com/steff-360/libreria) |
 | **Infraestructura Docker & Supabase** | Aprovisionamiento de backend local y orquestacion de bases de datos mediante contenedores Docker Compose. | Docker, Supabase, PostgreSQL | [Codigo Fuente](https://github.com/steff-360/stefani-supabase-local-alcore-config) |
 | **Bases de Datos MySQL** | Modelado entidad-relacion, normalizacion de esquemas y consultas relacionales avanzadas. | MySQL, SQL, Docker | [Codigo Fuente](https://github.com/steff-360/stefani-campuslands-mysql) |
